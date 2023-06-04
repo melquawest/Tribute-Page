@@ -1,3 +1,33 @@
-h1{text-align: center;
-color: orange;
-font-family: Verdana, Geneva, Tahoma, sans-serif;}
+body{
+    font-family:    Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+}
+img{
+    position: relative;
+    left: 50px;
+    top: 20px;
+    width: 400px;
+    height: 450px;
+    border-radius: 250px;
+}
+.headPicture{
+    width: 450px;
+}
+.textParagraphs{
+    position: absolute;
+    left: 500px;
+    right: 40px;
+    bottom: 150px;
+    text-align: justify;
+    font-style: italic;
+}
+#heading{
+    font-size: 40px;
+    font-family: Coiny;
+    color: rgb(77, 77, 77);
+    text-align: center;
+    background: rgb(235, 235, 235);
+    margin: 0px;
+}
